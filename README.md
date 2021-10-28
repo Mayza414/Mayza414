@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Mayza Fidelis 👋
 - 📕 Estudando de programação - #OTechTaOn.
-- 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Sou determinada.
 -->
 # Oiii! Sou a Mayza 
