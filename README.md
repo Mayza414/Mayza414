@@ -1,5 +1,5 @@
-### Hi dear 👋
-- 📕 Estudando de programação - #OTechTaOn.
+### Oie queridos 👋
+- 📕 Sou estudante de programação - #OTechTaOn.
 - ⚡ Fun fact: Sou determinada.
 -->
 # I'm Mayza
