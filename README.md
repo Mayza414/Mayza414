@@ -1,8 +1,4 @@
-### Oie gente 👋
-- 📕 Estudante.
-- ⚡ Fun fact: Sou determinada.
--->
-# Me chamo Mayza, sou estudante de ciências da computação 👨‍💻
+# Oie gente 👋 Me chamo Mayza, sou estudante de ciências da computação 👨‍💻
 
 ###
 
