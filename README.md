@@ -10,10 +10,6 @@ Sou estudante de ciências da computação 👨‍💻, apaixonada por desenvolv
   <img align="center" alt="mayza-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
 
-## Projetos Destacados
-- [Projeto 1](link_projeto_1)
-- [Projeto 2](link_projeto_2)
-
 ## Estatísticas
 <div>
   <a href="https://github.com/Mayza414">
