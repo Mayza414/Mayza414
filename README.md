@@ -1,7 +1,7 @@
 # Olá, eu sou Mayza! 👋
 
 ## Sobre Mim
-Sou estudante de ciências da computação 👨‍💻, apaixonada por desenvolvimento e sempre em busca de novos desafios.
+Graduando em Ciência da Computação pela Universidade do Estado de Mato Grosso (UNEMAT) desde 2022/01. Bolsista na AGINOV, com atuação em projetos de inovação e extensão. Contribuiu para a elaboração da versão 2023 e 2024/25 do Portfólio Tecnológico da UNEMAT.
 
 ## Habilidades
 <div style="display: inline_block"><br>
