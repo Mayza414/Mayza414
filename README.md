@@ -13,8 +13,8 @@ Graduando em Ciência da Computação pela Universidade do Estado de Mato Grosso
 ## Estatísticas
 <div>
   <a href="https://github.com/Mayza414">
-  <img height="180em" src="github-readme-stats-1imdtwsqy-mayzaumbelina-7828s-projects.vercel.app&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="github-readme-stats-1imdtwsqy-mayzaumbelina-7828s-projects.vercel.app&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-two-topaz-41.vercel.app/api?username=Mayza414&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-topaz-41.vercel.app/api/top-langs/?username=Mayza414&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
