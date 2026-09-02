@@ -10,13 +10,6 @@ Graduando em Ciência da Computação pela Universidade do Estado de Mato Grosso
   <img align="center" alt="mayza-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
 
-## Estatísticas
-<div>
-  <a href="https://github.com/Mayza414">
-  <img height="180em" src="https://github-readme-stats-two-topaz-41.vercel.app/api?username=Mayza414&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-two-topaz-41.vercel.app/api/top-langs/?username=Mayza414&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
 ##
 
 ## Onde Me Encontrar
